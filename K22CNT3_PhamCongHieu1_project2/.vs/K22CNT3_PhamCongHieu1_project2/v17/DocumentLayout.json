@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AD\\Desktop\\K22CNT3_PCH_PROJECT2_Buoi4\\K22CNT3_PhamCongHieu1_project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7539D8AE-3405-4256-859C-106BBA44B6BC}|K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2.csproj|c:\\users\\ad\\desktop\\k22cnt3_pch_project2_buoi4\\k22cnt3_phamconghieu1_project2\\k22cnt3_phamconghieu1_project2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7539D8AE-3405-4256-859C-106BBA44B6BC}|K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2.csproj|solutionrelative:k22cnt3_phamconghieu1_project2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7539D8AE-3405-4256-859C-106BBA44B6BC}|K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2.csproj|C:\\Users\\AD\\Desktop\\K22CNT3_PCH_PROJECT2_Buoi4\\K22CNT3_PhamCongHieu1_project2\\k22cnt3_phamconghieu1_project2\\controllers\\pch_san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7539D8AE-3405-4256-859C-106BBA44B6BC}|K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2.csproj|solutionrelative:k22cnt3_phamconghieu1_project2\\controllers\\pch_san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7539D8AE-3405-4256-859C-106BBA44B6BC}|K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2.csproj|C:\\Users\\AD\\Desktop\\K22CNT3_PCH_PROJECT2_Buoi4\\K22CNT3_PhamCongHieu1_project2\\k22cnt3_phamconghieu1_project2\\views\\pch_san_pham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7539D8AE-3405-4256-859C-106BBA44B6BC}|K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2.csproj|solutionrelative:k22cnt3_phamconghieu1_project2\\views\\pch_san_pham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\K22CNT3_PCH_PROJECT2\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Controllers\\PCHSampleController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\K22CNT3_PCH_PROJECT2\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Models\\PCH_SampleItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\K22CNT3_PCH_PROJECT2\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Bussiness\\PCH_Sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PCHSampleController.cs",
+              "DocumentMoniker": "C:\\K22CNT3_PCH_PROJECT2\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Controllers\\PCHSampleController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\K22CNT3_PCH_PROJECT2\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Controllers\\PCHSampleController.cs",
+              "ToolTip": "C:\\K22CNT3_PCH_PROJECT2\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Controllers\\PCHSampleController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\K22CNT3_PCH_PROJECT2\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Controllers\\PCHSampleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:42:17.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PCH_SampleItem.cs",
+              "DocumentMoniker": "C:\\K22CNT3_PCH_PROJECT2\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Models\\PCH_SampleItem.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\K22CNT3_PCH_PROJECT2\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Models\\PCH_SampleItem.cs",
+              "ToolTip": "C:\\K22CNT3_PCH_PROJECT2\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Models\\PCH_SampleItem.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\K22CNT3_PCH_PROJECT2\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Models\\PCH_SampleItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:10:03.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PCH_Sample.cs",
+              "DocumentMoniker": "C:\\K22CNT3_PCH_PROJECT2\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Bussiness\\PCH_Sample.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\K22CNT3_PCH_PROJECT2\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Bussiness\\PCH_Sample.cs",
+              "ToolTip": "C:\\K22CNT3_PCH_PROJECT2\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Bussiness\\PCH_Sample.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\K22CNT3_PCH_PROJECT2\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Bussiness\\PCH_Sample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:07:33.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AD\\Desktop\\K22CNT3_PCH_PROJECT2_Buoi4\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Views\\PCH_SAN_PHAM\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_PhamCongHieu1_project2\\Views\\PCH_SAN_PHAM\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AD\\Desktop\\K22CNT3_PCH_PROJECT2_Buoi4\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Views\\PCH_SAN_PHAM\\Index.cshtml",
+              "RelativeToolTip": "K22CNT3_PhamCongHieu1_project2\\Views\\PCH_SAN_PHAM\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T19:03:17.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PCH_SAN_PHAMController.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\Desktop\\K22CNT3_PCH_PROJECT2_Buoi4\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Controllers\\PCH_SAN_PHAMController.cs",
+              "RelativeDocumentMoniker": "K22CNT3_PhamCongHieu1_project2\\Controllers\\PCH_SAN_PHAMController.cs",
+              "ToolTip": "C:\\Users\\AD\\Desktop\\K22CNT3_PCH_PROJECT2_Buoi4\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Controllers\\PCH_SAN_PHAMController.cs",
+              "RelativeToolTip": "K22CNT3_PhamCongHieu1_project2\\Controllers\\PCH_SAN_PHAMController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:01:32.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AD\\Desktop\\K22CNT3_PCH_PROJECT2_Buoi4\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "K22CNT3_PhamCongHieu1_project2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\AD\\Desktop\\K22CNT3_PCH_PROJECT2_Buoi4\\K22CNT3_PhamCongHieu1_project2\\K22CNT3_PhamCongHieu1_project2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "K22CNT3_PhamCongHieu1_project2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T18:40:16.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

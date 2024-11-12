@@ -1,0 +1,27 @@
+﻿@model IEnumerable<K22CNT3_PhamCongHieu1_project2.Models.SAN_PHAM>
+
+@{
+    ViewBag.Title = "Danh sách sản phẩm";
+}
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-3">
+            <div class="card w-100">
+                <img src="@item.HinhAnh" class="card-img-top" alt="@item.TenSanPham">
+                <div class="card-body">
+                    <h5 class="card-title">@item.TenSanPham</h5>
+                    <p>Gía: <span class="text-danger">@item.DonGia.Value.ToString("#,##0")</span></p>
+                    <a href="/PCHCart/AddToCart?id=@item.ID&TenSanPham=@item.TenSanPham&HinhAnh=@item.HinhAnh&SoLuongMua=1&DonGiaMUa=@item.DonGia"
+                       class="btn btn-primary">
+                        Mua hang
+                    </a>
+                </div>
+            </div>
+        </div>
+            }
+
+        </div>
+
+
+
